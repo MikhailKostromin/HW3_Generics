@@ -13,5 +13,8 @@ Generics.ArrayCoparator,Generics.Pair,Generics.Calculator
 
 ФОТО проекта
 
+<img width="1280" alt="Снимок экрана 2023-10-16 в 22 01 08" src="https://github.com/MikhailKostromin/HW3_Generics/assets/110930748/e9c9683a-4510-4537-bd64-0815768ff277">
+
+
 
 
